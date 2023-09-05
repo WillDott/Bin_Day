@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.405.0"
+  }
+}
